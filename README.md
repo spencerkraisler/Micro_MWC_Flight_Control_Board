@@ -1,0 +1,2 @@
+# Micro_MWC_Flight_Control_Board
+I built this repository to store some scripts that utilize the Micro MWC Flight Control Board. It's really similar to the Arduino, but for someone with little experience with microcontrollers, I felt it'd be nice to post some scripts I figured out on how to access the various components in this MCU, such as the gyroscope, accelerometer, barometer, and the motor drivers.
